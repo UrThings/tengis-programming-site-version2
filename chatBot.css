@@ -1,0 +1,181 @@
+
+
+.header1{
+  margin-top: -1px;
+  margin-left: 6px;
+  margin-bottom: -10px;
+  width: 220px;
+  height: 40px;
+  border-bottom: black 1px solid;
+  border-bottom: none;
+  border-radius: 10px;
+  font-size: 13px;
+  align-items: center;
+  border: none;
+
+  background-color:rgb(233, 236, 237) ;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+
+
+}
+
+.bot-name{
+  display: grid;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 5px;
+  padding-top: 10px;
+  color: black;
+}
+
+.chat{
+
+  margin-top: -7px;
+  width:  220px;
+  height: 395px;
+
+  
+  margin-left: 5px;
+  margin-bottom: 0px;
+  background-color: rgb(233, 236, 237);
+  font-size: 14px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top: 1px solid black;
+}
+
+.computer{
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 20px;
+}
+
+.button1{
+  color: rgb(27, 40, 122);
+  border-radius: 20px;
+  padding: 3px 6px;
+  border-color: rgb(113, 113, 235);
+  background-color: white;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.button1:hover {
+  opacity: 0.6;  
+}
+.computer-text{
+margin-left: 10px;
+}
+
+.button2{
+margin-left:10px;
+}
+
+.text{
+  border: none;
+  border-radius: 10px;
+  padding: 3px 6px;
+  background-color: white;
+  color: black;
+}
+.phone{
+  width: 232px;
+  height: 450px;
+  border: solid 1px DodgerBlue;
+  border-radius: 15px;
+  background-color: rgb(14, 52, 90);
+  color: black;
+  
+}
+
+
+
+.phone-header{
+  display: flex;
+  background-color: rgb(233, 236, 237);
+  height: 10px;
+  width: 220px;
+  margin-top: 7px;
+  margin-left: 6px;
+  margin-bottom: -10px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  color: black;
+
+}
+
+.imagee{
+  width: 15px;
+  height: 15px;
+  margin-left: 5px;
+  margin-top: 2px;
+}
+
+.left-section{
+  margin-left: 10px;
+}
+
+.middle-section{
+  margin-left: 15px;
+  width: 80px;
+  height: 13px;
+  background-color: black;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+
+.chat-bar{
+  bottom: 0px;
+  margin-top: -40px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+input{
+  border-radius: 10px;
+  border-color: rgb(113, 113, 235);
+  height: 20px;
+  width: 165px;
+  font-size: 14px;
+}
+
+.x-button{
+  position: absolute;
+  z-index: 99;
+  margin-left: 219px;
+  margin-top: -3px;
+  border-color: black;
+  color: red;
+  
+  background-color:white;
+  font-size: 14px;
+}
+
+.x-button:hover{
+  border-color: white;
+  color: blue;
+  background-color: black;
+  opacity: 1;
+}
+
+.all{
+  position: fixed ;
+  margin-top: -2100px;
+  right: 0;
+  z-index: 9999;
+  
+}
+
+.cellular{
+  margin-left: -5px;
+  width: 10px;
+  height: 10px;
+}
+.wifi{
+  margin-right: 0;
+}
